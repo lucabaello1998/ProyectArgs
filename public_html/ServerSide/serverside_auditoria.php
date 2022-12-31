@@ -1,0 +1,4 @@
+<?php require 'serverside.php';
+$table_data->get('vista_auditoria','id',array('id', 'supervisor', 'fecha_relevo', 'tecnico', 'fecha', 'aire', 'alargue', 'alcohol', 'alicate', 'arnes', 'campera', 'casco','celular', 'chomba', 'pasacable', 'cleaver', 'conos', 'crimpeadora', 'dest_phillips', 'dest_plano', 'tension', 'enduido', 'escalera_chica', 'escalera_grande', 'escoba', 'fibron', 'gafas', 'gorra', 'alta_tension', 'guante_trabajo', 'lapiz_limpiador', 'lapiz_optico', 'linga', 'martillo', 'mecha6', 'mecha_pasante', 'pala', 'pantalon', 'panos', 'peladora_fo', 'peladora_uni', 'percutora', 'pinza', 'silicona', 'power', 'tel', 'tester_rj', 'tijera', 'zapatos', 'bolso_kit', 'bolso_cleaver', 'caja', 'obs'));
+
+?>

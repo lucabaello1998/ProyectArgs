@@ -1,0 +1,57 @@
+--- 
+files: 
+  certificate: 
+    depositoargentseal_com_9f868_24c33_1642526944_a8fa08f45cd1e88ea847e5beb762f99e: 
+      created: '1610990944'
+      domains: 
+        - depositoargentseal.com
+        - mail.depositoargentseal.com
+        - www.depositoargentseal.com
+        - cpanel.depositoargentseal.com
+        - webmail.depositoargentseal.com
+        - webdisk.depositoargentseal.com
+        - cpcontacts.depositoargentseal.com
+        - cpcalendars.depositoargentseal.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “depositoargentseal.com”
+      id: depositoargentseal_com_9f868_24c33_1642526944_a8fa08f45cd1e88ea847e5beb762f99e
+      is_self_signed: 1
+      issuer.commonName: depositoargentseal.com
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: 9f868117665971d4229e01bcdb1cb2d8d895d117940125642a6f61eb95590d52949efd55f5ab18e3a725a02810f274f7364f4389e2f713d7886a4a2db565db91a6862f12e3eb3a57262310d78623f22f3b8ef62ea2888fa3e067a3043e3de895ed17e39c9e34c9909abb697b5ba39bdae42854bc2df2f209013f3833c22ff0e180abdb781c1b842b231cd18aff30ffed9e2c878006f282c97b1b04417b9832f5c29665db27407d13f5758117d8941043bac56c35d57a3d856b14de88ba9cb9f65a42fdcfee366e2aa316a3c2e68069ddb1ba3458ac003e40ee609fd39351c09c4b62efbe7bbf1de950bd44544acf24f7f782aebb5ddc0885475a47a131824c33
+      modulus_length: 2048
+      not_after: '1642526944'
+      not_before: '1610990944'
+      serial: 14e678f1
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: depositoargentseal.com
+      validation_type: ~
+  key: 
+    9f868_24c33_e85d49055dfd5c239db81ae09f242c6e: 
+      created: '1610990944'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “depositoargentseal.com”
+      id: 9f868_24c33_e85d49055dfd5c239db81ae09f242c6e
+      key_algorithm: rsaEncryption
+      modulus: 9f868117665971d4229e01bcdb1cb2d8d895d117940125642a6f61eb95590d52949efd55f5ab18e3a725a02810f274f7364f4389e2f713d7886a4a2db565db91a6862f12e3eb3a57262310d78623f22f3b8ef62ea2888fa3e067a3043e3de895ed17e39c9e34c9909abb697b5ba39bdae42854bc2df2f209013f3833c22ff0e180abdb781c1b842b231cd18aff30ffed9e2c878006f282c97b1b04417b9832f5c29665db27407d13f5758117d8941043bac56c35d57a3d856b14de88ba9cb9f65a42fdcfee366e2aa316a3c2e68069ddb1ba3458ac003e40ee609fd39351c09c4b62efbe7bbf1de950bd44544acf24f7f782aebb5ddc0885475a47a131824c33
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      9f868117665971d4229e01bcdb1cb2d8d895d117940125642a6f61eb95590d52949efd55f5ab18e3a725a02810f274f7364f4389e2f713d7886a4a2db565db91a6862f12e3eb3a57262310d78623f22f3b8ef62ea2888fa3e067a3043e3de895ed17e39c9e34c9909abb697b5ba39bdae42854bc2df2f209013f3833c22ff0e180abdb781c1b842b231cd18aff30ffed9e2c878006f282c97b1b04417b9832f5c29665db27407d13f5758117d8941043bac56c35d57a3d856b14de88ba9cb9f65a42fdcfee366e2aa316a3c2e68069ddb1ba3458ac003e40ee609fd39351c09c4b62efbe7bbf1de950bd44544acf24f7f782aebb5ddc0885475a47a131824c33: 
+        depositoargentseal_com_9f868_24c33_1642526944_a8fa08f45cd1e88ea847e5beb762f99e: ~
+    subject.commonName: 
+      depositoargentseal.com: 
+        depositoargentseal_com_9f868_24c33_1642526944_a8fa08f45cd1e88ea847e5beb762f99e: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “depositoargentseal.com”: depositoargentseal_com_9f868_24c33_1642526944_a8fa08f45cd1e88ea847e5beb762f99e
+  key: 
+    friendly_name: 
+      Key for “depositoargentseal.com”: 9f868_24c33_e85d49055dfd5c239db81ae09f242c6e
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      9f868117665971d4229e01bcdb1cb2d8d895d117940125642a6f61eb95590d52949efd55f5ab18e3a725a02810f274f7364f4389e2f713d7886a4a2db565db91a6862f12e3eb3a57262310d78623f22f3b8ef62ea2888fa3e067a3043e3de895ed17e39c9e34c9909abb697b5ba39bdae42854bc2df2f209013f3833c22ff0e180abdb781c1b842b231cd18aff30ffed9e2c878006f282c97b1b04417b9832f5c29665db27407d13f5758117d8941043bac56c35d57a3d856b14de88ba9cb9f65a42fdcfee366e2aa316a3c2e68069ddb1ba3458ac003e40ee609fd39351c09c4b62efbe7bbf1de950bd44544acf24f7f782aebb5ddc0885475a47a131824c33: 9f868_24c33_e85d49055dfd5c239db81ae09f242c6e

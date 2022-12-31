@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es_ES">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>ArgentSeal Corporativo</title>
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+<script src="https://kit.fontawesome.com/12469c1105.js" crossorigin="anonymous"></script>
+<link href="https://cdn.jsdelivr.net/npm/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"> 
+
+<link rel="shortcut icon" type="image/png" href=”../../Image/argent.ico” >
+<link href="./assets/css/header.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-dark text-center">
+            <a class="navbar-brand text-light" href="#">
+                <img src="./assets/image/argent.png" width="30" height="30" class="d-inline-block align-top" alt="">
+                ArgentSeal
+            </a>
+            <button class="navbar-toggler btn shadow-none border-0 bg-transparent" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon navbar-dark"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item dropdown">
+                    <button class="btn shadow-none bg-transparent text-light border-0" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Reportes
+                    </button>
+                <div class="dropdown-menu" aria-labelledby=navbarDropdown>
+                    <button class="dropdown-item mx-auto" href="#">alta</button>
+                    <button class="dropdown-item" href="#">tareas</button>
+                </div>
+                </li>
+            </ul>
+            <ul class="navbar-nav">
+                <li class="nav-item dropdown">
+                    <div class="dropdown">
+                            <button class="btn shadow-none btn-secondary dropdown-toggle usuario mt-1" aria-labelledby="navbarDropdown" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                BoB
+                            </button>
+                        <div class="dropdown-menu dropdown-menu-right mt-1"; aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="#">Masivo</a>
+                            <button class="dropdown-item" type="button">Cerrar cuenta</button>
+                        </div>
+                    </div>
+                </li>
+            </ul>        
+        </nav>
+    </header>
+
+    <!-- contenido -->
+
+
+    <section>
+        <div class="d-flex justify-content-around flex-wrap mt-3">
+            <div class="d-flex justify-content-around" role="group">
+                <button type="button" class="btn btn-primary rounded btn-xl">
+                    <i class="fas fa-plus"></i> Altas 
+                    <span class="badge badge-primary btn-block altas">3</span>
+                </button>
+                <button type="button" class="btn btn-danger rounded btn-xl mx-1">
+                    <i class="fas fa-minus"></i> Bajas 
+                    <span class="badge badge-danger btn-block bajas">5</span>
+                </button>
+                <button type="button" class="btn btn-warning  rounded btn-xl mx-1">
+                <i class="fas fa-exclamation-triangle"></i> Sin confirmar 
+                <span class="badge badge-warning btn-block sin-confirmar">7</span>
+                </button>
+                <button type="button" class="btn btn-success rounded btn-xl">
+                    <i class="fas fa-box-open"></i> Depósito 
+                </button>
+            </div>
+        </div>    
+    </section>
+
+    <section id="tablas">
+        <div id="tabla"></div>
+    </section>
+
+
+
+    <!-- tareas en coordinacion -> tareas coordinadas -> tareas en proceso -> tareas finalizadas -->
+    <script src="https://cdn.jsdelivr.net/npm/gridjs/dist/gridjs.umd.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="./js/username.js"></script>
+    <script src="../../corpo/corpo2/js/tareas.js"></script>
+    <script src="../../corpo/corpo2/js/tabla_deposito.js"></script>
+</body>
+</html>

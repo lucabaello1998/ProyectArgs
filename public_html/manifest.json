@@ -1,0 +1,141 @@
+{
+  "name": "Portal de Gestion Argentseal",
+  "short_name": "Argentseal",
+  "description": "PGA, Portal de Gestion Argentseal, para el control y desarrollo especializado en tecnologia FTTH.",
+  "background_color": "#FCFCFC",
+  "theme_color": "#343a40",
+  "orientation": "natural",
+  "display": "standalone",
+  "start_url": ".",
+  "scope": "./",
+  "dir": "rtl",
+  "gcm_sender_id": "757909991303",
+  "categories": ["business","utilities", "security","network","networking","dating"],
+  "lang": "es-MX",
+  "protocol_handlers": [
+    {
+      "protocol": "mailto",
+      "url": "/newEmail?to=%s"
+    }
+  ],
+  "icons": [
+    {
+      "src": "./images/icon_1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "./images/icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "./images/icon_384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/icon_256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/icon_144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/icon_128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/icon_96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/icon_64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/icon_32.png",
+      "sizes": "32x32",
+      "type": "image/ico"
+    },
+    {
+      "src": "./images/favicon.ico",
+      "type": "image/ico"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/screenshot_android.jpeg",
+      "sizes": "720x1471",
+      "type": "image/jpeg",
+      "label": "Dashboard de Argentseal",
+      "platform": "narrow",
+      "description": "Una captura del inicio en Android"
+    },
+    {
+      "src": "/images/screenshot.png",
+      "sizes": "1366x656",
+      "type": "image/png",
+      "label": "Dashboard de Argentseal",
+      "platform": "wide",
+      "description": "Una captura del inicio en Windows"
+    }    
+  ],
+  "shortcuts": [
+    {
+      "name": "Inicio",
+      "url": "/inicio_administrador.php",
+      "description": "Dashboard inicial",
+      "icons": [
+        {
+          "src": "/images/icon_96.png",
+          "type": "image/png",
+          "purpose": "maskable"
+        }
+      ]
+    },
+    {
+      "name": "Garantias",
+      "url": "/Analisis/a_garantias.php",
+      "description": "Analisis de garantias",
+      "icons": [
+        {
+          "src": "/images/icon_96.png",
+          "type": "image/png",
+          "purpose": "maskable"
+        }
+      ]
+    },
+    {
+      "name": "Altas",
+      "url": "/Analisis/a_altas.php",
+      "description": "Analisis de tareas exitosas",
+      "icons": [
+        {
+          "src": "/images/icon_96.png",
+          "type": "image/png",
+          "purpose": "maskable"
+        }
+      ]
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://argentseal.online/manifest.json"
+    }
+  ]
+}

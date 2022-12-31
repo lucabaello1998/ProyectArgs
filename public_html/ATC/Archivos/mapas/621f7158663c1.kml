@@ -1,0 +1,1744 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="KML_TLI_CLARO_campana" id="KML_TLI_CLARO_campana">
+	<SimpleField name="xfm_id" type="float"></SimpleField>
+	<SimpleField name="mslink" type="float"></SimpleField>
+	<SimpleField name="dev_id" type="string"></SimpleField>
+	<SimpleField name="link1" type="float"></SimpleField>
+	<SimpleField name="length" type="float"></SimpleField>
+	<SimpleField name="model" type="string"></SimpleField>
+	<SimpleField name="multisheat" type="float"></SimpleField>
+	<SimpleField name="descr" type="string"></SimpleField>
+	<SimpleField name="descr2" type="string"></SimpleField>
+	<SimpleField name="owner" type="string"></SimpleField>
+	<SimpleField name="poleno" type="string"></SimpleField>
+	<SimpleField name="contractor" type="string"></SimpleField>
+	<SimpleField name="job_name" type="string"></SimpleField>
+	<SimpleField name="job_desc" type="string"></SimpleField>
+	<SimpleField name="createdate" type="string"></SimpleField>
+	<SimpleField name="createdby" type="string"></SimpleField>
+	<SimpleField name="updatedate" type="string"></SimpleField>
+	<SimpleField name="updatedby" type="string"></SimpleField>
+	<SimpleField name="updatedver" type="string"></SimpleField>
+	<SimpleField name="ogc_geomet" type="string"></SimpleField>
+</Schema>
+<Folder><name>KML_TLI_CLARO_campana</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381490</SimpleData>
+		<SimpleData name="mslink">1524400159</SimpleData>
+		<SimpleData name="dev_id">70585084-224c-4d4e-86ea-ed2c5c9cfb0d</SimpleData>
+		<SimpleData name="link1">1524400162</SimpleData>
+		<SimpleData name="length">26.199999999999999</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018877</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018877</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (323673.736453768 6207946.40919466, 323664.4885767 6207940.61181066, 323664.227632343 6207938.56998549)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9149734411161,-34.2546769535024 -58.9150750117828,-34.2547276394074 -58.9150782614978,-34.2547459991163</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509389093</SimpleData>
+		<SimpleData name="mslink">1524536152</SimpleData>
+		<SimpleData name="dev_id">34b331aa-d861-455b-920f-ed489d1abcf2</SimpleData>
+		<SimpleData name="link1">1524536154</SimpleData>
+		<SimpleData name="length">164.099999999999994</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2021/02/11 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">sa.lucas.wigley</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (317839.2068645 6201651.42924404, 317848.91610095 6201645.06297682, 317951.479785709 6201554.35648468, 317957.703542661 6201545.01300255)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9796363706292,-34.3104082297654 -58.9795322579454,-34.3104673142979 -58.9784374138759,-34.311302863073 -58.9783717879749,-34.3113881688012</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381493</SimpleData>
+		<SimpleData name="mslink">1524399694</SimpleData>
+		<SimpleData name="dev_id">83f0015b-0d24-45e3-a598-d049ca35612f</SimpleData>
+		<SimpleData name="link1">1524399696</SimpleData>
+		<SimpleData name="length">1595.799999999999955</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018885</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018885</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (319153.2834456 6216327.13343152, 319105.749017424 6216329.02227318, 319083.690366846 6216329.20323376, 319005.289539004 6216334.70221963, 318899.258203378 6216341.84462304, 318874.158093659 6216346.56252395, 318796.152092785 6216350.49195375,</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9622896663792,-34.178362411878 -58.9628047815243,-34.1783371395769 -58.9630439690547,-34.1783316804744 -58.9638930742168,-34.1782685068314 -58.965041485396,-34.1781857149084 -58.9653127080695,-34.1781388300442 -58.9661578552234,-34.1780898563756 -58.9664257815766,-34.1780911559966 -58.9672817642217,-34.1780261504482 -58.9672649690737,-34.1779303847106 -58.9675659683037,-34.1779078419629 -58.9674342391829,-34.177834432039 -58.967401751899,-34.1771292000677 -58.9673592413388,-34.1769396764146 -58.9673051127096,-34.1762135069004 -58.9672720589056,-34.1759898662586 -58.9672213532279,-34.1752662203029 -58.9672681910824,-34.1752076616425 -58.9678035202233,-34.1751850566331 -58.9681384734229,-34.1751649982327 -58.9684216504419,-34.1751115047789 -58.9692765964963,-34.1750628045679 -58.9695693213237,-34.1750825800869 -58.9703613407256,-34.1750429389542 -58.9706916530757,-34.1750131581547 -58.9709444415775,-34.1750025703294 -58.9711450875758,-34.1747741769345 -58.9719389345238,-34.175002904886 -58.9719156765998,-34.1746777619541 -58.9719028230965,-34.1739567734107 -58.9718560685359,-34.1737176704233 -58.9718293391977,-34.1729903781385 -58.9718868707639,-34.1729339768417 -58.9724609083342,-34.1729051686001 -58.9724333805466,-34.1726494400444 -58.9725921229736,-34.1726436243307 -58.972590413084,-34.1726279791622</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381484</SimpleData>
+		<SimpleData name="mslink">1524398031</SimpleData>
+		<SimpleData name="dev_id">8bd921f3-a3e5-4c66-bd36-84c5e6d881bd</SimpleData>
+		<SimpleData name="link1">1524398033</SimpleData>
+		<SimpleData name="length">971.399999999999977</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (324086.083038289 6204322.42265738, 324209.569127616 6204401.72203591, 324309.194672441 6204461.61998882, 324626.119546572 6204624.34923473, 324763.997413226 6204700.27350926, 324932.132764306 6204800.43536509)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9112365950216,-34.2874115873039 -58.9098794462653,-34.2867177409235 -58.9087853794628,-34.2861947156623 -58.9053107253277,-34.2847815373491 -58.9037980726802,-34.2841204724489 -58.9019519587495,-34.2832460240162</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381483</SimpleData>
+		<SimpleData name="mslink">1524400573</SimpleData>
+		<SimpleData name="dev_id">db280ba6-ed9d-47a4-b333-01f56c0a9ca7</SimpleData>
+		<SimpleData name="link1">1524400576</SimpleData>
+		<SimpleData name="length">30.699999999999999</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018871</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018871</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (320372.02334432 6201622.45213484, 320365.829061219 6201634.07088018, 320369.197759178 6201639.02901163)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.952131147404,-34.3111110975181 -58.9521960053786,-34.3110053026229 -58.9521583796261,-34.3109611973031</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381486</SimpleData>
+		<SimpleData name="mslink">1524400005</SimpleData>
+		<SimpleData name="dev_id">224efc0e-cae6-4616-804d-82c0c6006ad3</SimpleData>
+		<SimpleData name="link1">1524400007</SimpleData>
+		<SimpleData name="length">11.900000000000000</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018887</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018887</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (318821.268304749 6218064.03672253, 318823.062442279 6218065.50086426)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9655272763874,-34.162649450179 -58.9655075167148,-34.1626365649845</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509389091</SimpleData>
+		<SimpleData name="mslink">1524536050</SimpleData>
+		<SimpleData name="dev_id">48bd4498-5c4d-4b89-a9c2-b949e50ace7e</SimpleData>
+		<SimpleData name="link1">1524536053</SimpleData>
+		<SimpleData name="length">753.100000000000023</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2021/02/11 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">sa.lucas.wigley</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (317961.034076646 6201540.01300256, 317969.199029616 6201527.75527901, 318275.511418233 6201250.84034715, 318260.956325023 6201235.32297717, 318217.97755309 6201031.6801163, 318144.119816431 6200979.33893617)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9783366693756,-34.311433818647 -58.9782505744014,-34.3115457312468 -58.9749818846471,-34.3140952983985 -58.9751432635315,-34.3142326074468 -58.9756531297253,-34.3160605247922 -58.9764664752698,-34.316519331394</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381489</SimpleData>
+		<SimpleData name="mslink">1524399488</SimpleData>
+		<SimpleData name="dev_id">d77aebe4-db92-4306-ab7b-274018fda06f</SimpleData>
+		<SimpleData name="link1">1524399489</SimpleData>
+		<SimpleData name="length">11.800000000000001</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018879</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018879</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (322652.876577025 6213852.55548899, 322653.345744062 6213855.9849198)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9248429460878,-34.2012683687262 -58.9248371536996,-34.2012375373712</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381467</SimpleData>
+		<SimpleData name="mslink">1524400470</SimpleData>
+		<SimpleData name="dev_id">b14f9514-fa88-4f2b-bab8-42a6f722b0b7</SimpleData>
+		<SimpleData name="link1">1524400524</SimpleData>
+		<SimpleData name="length">987.899999999999977</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (320397.656148727 6201631.64725721, 321334.003034169 6202080.10510309)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9518508031362,-34.3110326584371 -58.9415870160131,-34.3071522880997</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381478</SimpleData>
+		<SimpleData name="mslink">1524399642</SimpleData>
+		<SimpleData name="dev_id">ebb58569-0f8c-42b4-a2c8-e63f30e142e2</SimpleData>
+		<SimpleData name="link1">1524399644</SimpleData>
+		<SimpleData name="length">28.000000000000000</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018883</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018883</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (318277.607984444 6214694.81379408, 318287.426749661 6214693.84482842, 318292.455697782 6214688.33543767)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9721288044444,-34.1929226993255 -58.9720225058947,-34.1929331454024 -58.9719691143416,-34.1929836801548</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381481</SimpleData>
+		<SimpleData name="mslink">1524399093</SimpleData>
+		<SimpleData name="dev_id">a85d2ed5-e299-48ff-abfe-601d41094f5a</SimpleData>
+		<SimpleData name="link1">1524536155</SimpleData>
+		<SimpleData name="length">438.899999999999977</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (317659.932715389 6201963.31167196, 317641.39654875 6201970.52624003, 317616.478862005 6201894.6019655, 317634.198105913 6201832.53248559, 317816.927808706 6201666.03743937, 317834.2068645 6201654.70770329)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9815175481053,-34.3075657189786 -58.981717349157,-34.3074974355816 -58.9820040757645,-34.3081773649735 -58.9818247670931,-34.3087399156093 -58.979875269626,-34.3102726526078 -58.9796899858502,-34.3103778027609</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381464</SimpleData>
+		<SimpleData name="mslink">1524397578</SimpleData>
+		<SimpleData name="dev_id">d0ca0e9c-50c2-4d4d-ac05-941b0332bf98</SimpleData>
+		<SimpleData name="link1">1524397580</SimpleData>
+		<SimpleData name="length">1107.200000000000045</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018884</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018884</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (319823.263258604 6216939.53327579, 319822.989802575 6216934.88061597, 319675.449975755 6216942.66192103, 319668.760057137 6216948.81458085, 319668.036822692 6216924.74682333, 319663.600554264 6216845.1823328, 319661.792468151 6216820.9336147,</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9548963914379,-34.17295862489 -58.9549003242171,-34.173000513921 -58.9564986755078,-34.1729048716953 -58.9565699427948,-34.1728482583377 -58.9565827939785,-34.1730650653702 -58.9566474595433,-34.1737814438985 -58.9566721134673,-34.1739996943047 -58.9567365865835,-34.1747268090519 -58.9567935950374,-34.1749142408993 -58.9568614071565,-34.1756300489601 -58.9567944737448,-34.1757045417267 -58.955946572322,-34.1757670139335 -58.9556331058451,-34.1757834332288 -58.9557060357301,-34.1757137404858 -58.955750706967,-34.1760344670547 -58.9558273412589,-34.1767201777443 -58.9558425665889,-34.1769548952586 -58.9559049413871,-34.1776534785593 -58.9559361176704,-34.17789936337 -58.9559927036768,-34.1786160135582 -58.9560210107676,-34.1788225509261 -58.9560786309483,-34.1795340882332 -58.9559680017524,-34.1796252277384 -58.9552935153008,-34.1796615446116</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381468</SimpleData>
+		<SimpleData name="mslink">1524397838</SimpleData>
+		<SimpleData name="dev_id">30f44580-9082-4874-995c-ef541a678259</SimpleData>
+		<SimpleData name="link1">1524397840</SimpleData>
+		<SimpleData name="length">719.299999999999955</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (324937.929207979 6204802.62455818, 325381.654535579 6204899.98681455, 325432.913776883 6204915.82086555, 325455.695661906 6204916.13754657, 325509.802638837 6204932.92164063, 325537.014334838 6204926.58802023, 325610.739046095 6204950.6557777</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.901888571592,-34.2832272689509 -58.8970505076976,-34.2824244051579 -58.896490689975,-34.2822903028101 -58.8962432435758,-34.2822912780705 -58.8956523127799,-34.2821490872244 -58.8953581107076,-34.2822107479088 -58.8945526848714,-34.2820061957794 -58.89438628976,-34.2819399478086 -58.8944148687638,-34.2819075060738</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509382080</SimpleData>
+		<SimpleData name="mslink">1524415235</SimpleData>
+		<SimpleData name="dev_id">510647de-ca90-4e7f-870c-5cc95d485c9f</SimpleData>
+		<SimpleData name="link1">1524415289</SimpleData>
+		<SimpleData name="length">652.100000000000023</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018885</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018885</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/09 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (317769.450791429 6217264.88203862, 317889.403995183 6217258.75454432, 317897.178765468 6217265.2691253, 317902.034717724 6217378.83186303, 317918.339779993 6217363.06244081, 318084.922628052 6217354.4474245, 318098.50915415 6217338.82960221,</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9771000095607,-34.1696692339682 -58.9758005519519,-34.1697454181968 -58.9757148753333,-34.1696880581209 -58.9756383605926,-34.1686653318069 -58.9754648668112,-34.168810313324 -58.9736603048111,-34.1689170360114 -58.9735162542153,-34.1690601742431 -58.9727082024635,-34.1685830297697 -58.9726772890345,-34.1681742413157 -58.9726100169866,-34.1681249744719 -58.9725926252584,-34.1679555610003 -58.9725457081866,-34.1680103933667 -58.9730806750257,-34.1679846149831 -58.9730825043968,-34.16795315105</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381462</SimpleData>
+		<SimpleData name="mslink">1524399257</SimpleData>
+		<SimpleData name="dev_id">a48a220d-f6a2-4822-bc4a-5541aa64c9ad</SimpleData>
+		<SimpleData name="link1">1524399259</SimpleData>
+		<SimpleData name="length">916.899999999999977</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018878</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018878</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (321930.429456694 6213374.53318581, 321905.782939031 6213413.55239468, 321915.960036669 6213409.59130795, 322094.88966824 6213524.40977289, 322254.224853142 6213627.11509314, 322590.900602395 6213841.64264337, 322597.261288419 6213830.74965485</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9327785055039,-34.2054537468928 -58.9330378549877,-34.2050978337403 -58.9329282631455,-34.2051352772649 -58.9309635194787,-34.2041309456737 -58.9292138772259,-34.2032324186337 -58.9255175075862,-34.2013561771291 -58.9254507389092,-34.2014554446744 -58.9250565508999,-34.2012578913244</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381475</SimpleData>
+		<SimpleData name="mslink">1524400107</SimpleData>
+		<SimpleData name="dev_id">6fd4f7e5-4a5c-4e80-a3e5-3ae3b0bc8ead</SimpleData>
+		<SimpleData name="link1">1524496943</SimpleData>
+		<SimpleData name="length">433.100000000000023</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018875</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018875</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (323688.087224631 6207928.99571554, 323739.616866181 6207847.21547791, 323741.605760905 6207830.56710429, 323670.728785276 6207785.32695858, 323627.619149075 6207759.2050157, 323602.563938816 6207766.14513681, 323598.766957979 6207756.7351865,</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9148212197354,-34.2548363440319 -58.9142785621721,-34.2555822089925 -58.9142603723,-34.2557326062943 -58.9150389986524,-34.2561283567092 -58.9155123025271,-34.2563564923614 -58.915782865157,-34.2562896858426 -58.9158260057052,-34.2563738579064 -58.9163066459702,-34.2566159870572 -58.9166050905915,-34.2567026927042 -58.9162670403097,-34.2571769508257</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509382082</SimpleData>
+		<SimpleData name="mslink">1524415338</SimpleData>
+		<SimpleData name="dev_id">8f133c0a-dc1a-4dcd-8bd9-0f281e9ba700</SimpleData>
+		<SimpleData name="link1">1524415341</SimpleData>
+		<SimpleData name="length">30.000000000000000</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018898</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018898</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/09 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (317745.648307668 6217268.43022367, 317746.252025152 6217284.24471798, 317748.627687049 6217285.65998699)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9773573719963,-34.1696330933356 -58.9773475001307,-34.1694906583249 -58.9773214414868,-34.1694783173054</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381463</SimpleData>
+		<SimpleData name="mslink">1524398125</SimpleData>
+		<SimpleData name="dev_id">a1f0dd3a-5456-4a46-ab82-107bcae2c42d</SimpleData>
+		<SimpleData name="link1">1524479329</SimpleData>
+		<SimpleData name="length">619.000000000000000</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (324081.66443585 6204319.03197157, 324043.564397938 6204283.40191311, 323878.881654659 6204179.65494897, 323862.111655961 6204162.5541739, 323809.903169449 6204128.35262374, 323737.127703401 6204065.96646281, 323718.459214284 6204044.43215346,</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9112852701083,-34.2874414004244 -58.9117062849714,-34.2877560939945 -58.9135158332199,-34.288663287956 -58.9137014416082,-34.2888145797806 -58.9142753906907,-34.2891139942901 -58.9150784570438,-34.2896639544197 -58.9152855942726,-34.2898548826944 -58.9165486402526,-34.2907884409548</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509386948</SimpleData>
+		<SimpleData name="mslink">1524496941</SimpleData>
+		<SimpleData name="dev_id">46d0a018-8867-4b1b-9ccc-17df318d9ee8</SimpleData>
+		<SimpleData name="link1">1524496944</SimpleData>
+		<SimpleData name="length">154.199999999999989</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018875</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018875</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2021/01/08 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Damian.Cerquetti</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (323562.918073822 6207661.90290369, 323631.497655224 6207550.85637182, 323649.563405243 6207543.95109031)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9162345424795,-34.2572225424228 -58.9155127793693,-34.258235098171 -58.9153180774721,-34.258300404333</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381461</SimpleData>
+		<SimpleData name="mslink">1524398812</SimpleData>
+		<SimpleData name="dev_id">8ed26bb9-668d-4079-911e-b26f9c4885be</SimpleData>
+		<SimpleData name="link1">1524398835</SimpleData>
+		<SimpleData name="length">1910.000000000000000</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (321339.077750549 6202081.79129494, 321356.701279265 6202085.47051835, 321690.914696713 6202245.55277393, 321704.204129643 6202251.88639433, 321933.907344626 6202364.03388802, 321949.276076586 6202370.72942959, 322026.314670672 6202406.8819610</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9415315463461,-34.3071379639336 -58.9413393624996,-34.3071078369272 -58.9376760984272,-34.3057224644967 -58.9375304438908,-34.3056676615884 -58.9350123320326,-34.3046962906971 -58.9348440220225,-34.3046385792104 -58.9339998051491,-34.3043259425794 -58.9317878440176,-34.3035156628917 -58.9310981320543,-34.3032724118863 -58.9303058473327,-34.3030536168291 -58.9292973369051,-34.3025498293927 -58.928231764337,-34.3019555595303 -58.927763887361,-34.3016402669312 -58.9248721397806,-34.2986699277603 -58.9246487382815,-34.298370767563 -58.9244135774134,-34.2981727544655</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381471</SimpleData>
+		<SimpleData name="mslink">1524400677</SimpleData>
+		<SimpleData name="dev_id">fb995325-8340-4903-a9a7-2238047a88c5</SimpleData>
+		<SimpleData name="link1">1524400679</SimpleData>
+		<SimpleData name="length">22.000000000000000</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018870</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018870</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (319004.733005799 6202923.13129716, 319006.434082676 6202922.48710545, 319013.099135964 6202926.94277803)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.966709252487,-34.2991502186247 -58.9666909134147,-34.299156321505 -58.9666175916199,-34.2991173242721</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381470</SimpleData>
+		<SimpleData name="mslink">1524399901</SimpleData>
+		<SimpleData name="dev_id">d7bcde5b-4085-4331-b81c-118c08de4d5d</SimpleData>
+		<SimpleData name="link1">1524399955</SimpleData>
+		<SimpleData name="length">800.600000000000023</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018886</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018886</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (318844.103639028 6218051.7006691, 318872.832589644 6218049.8279497, 318898.462210296 6218046.34445848, 318978.831638018 6218041.59424318, 319000.347862763 6218044.12769134, 319082.299365834 6218040.64420012, 319104.764835788 6218033.9938987,</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.965282251536,-34.1627646057031 -58.9649711358636,-34.162786474406 -58.9646939623729,-34.1628223226735 -58.9638235104736,-34.1628790893045 -58.9635896815136,-34.1628599883259 -58.9627018093428,-34.1629056041157 -58.9624596038401,-34.1629694421933 -58.9616060384396,-34.1630145013461 -58.9613043178769,-34.1630278910591 -58.96042598062,-34.163083128017 -58.9602582810115,-34.1630401206584 -58.9601832504746,-34.1624245480305 -58.9599724965404,-34.1623006445565 -58.9599787546622,-34.162147167568 -58.9592423254475,-34.1621899309948 -58.9588832525862,-34.1622674577464 -58.9589350930995,-34.1622193116316 -58.9588768236573,-34.1614586595344 -58.9588267189152,-34.1614121409915 -58.9586641123718,-34.1614196318581 -58.9586662933757,-34.1614533983953</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381473</SimpleData>
+		<SimpleData name="mslink">1524398273</SimpleData>
+		<SimpleData name="dev_id">cf66af6d-be5d-437b-8052-a1f74de53654</SimpleData>
+		<SimpleData name="link1">1524398321</SimpleData>
+		<SimpleData name="length">882.100000000000023</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (319219.486032898 6201077.1832553, 319242.561368008 6201094.01011729, 319249.979265321 6201094.70177713, 319256.490483883 6201115.73752161, 319288.304365251 6201117.35825313, 319335.622568564 6201117.44771947, 319539.927117645 6201124.57728368</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9647645736784,-34.3158254584355 -58.9645103808958,-34.3156778176354 -58.9644296580579,-34.3156728764339 -58.9643545111567,-34.315484413096 -58.9640085904577,-34.3154753490403 -58.9634945745336,-34.3154827864412 -58.9612738052625,-34.3154540957462 -58.9611119944234,-34.3154240548951 -58.9609334089558,-34.3153485967304 -58.9589460541503,-34.3143506435218 -58.9562681736369,-34.313012157749</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509382079</SimpleData>
+		<SimpleData name="mslink">1524415391</SimpleData>
+		<SimpleData name="dev_id">898cb271-14aa-4d8c-8292-2d1b643b2707</SimpleData>
+		<SimpleData name="link1">1524415392</SimpleData>
+		<SimpleData name="length">37.500000000000000</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018899</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018899</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/09 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (317765.296361167 6217285.16217079, 317766.791355195 6217283.20856278, 317766.831278854 6217267.50674531)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9771407953833,-34.1694857173497 -58.9771249947904,-34.1695035870341 -58.9771278631043,-34.1696451189672</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381455</SimpleData>
+		<SimpleData name="mslink">1524400626</SimpleData>
+		<SimpleData name="dev_id">3b499aef-0234-45e6-a3cc-ad16ee2009a1</SimpleData>
+		<SimpleData name="link1">1524400627</SimpleData>
+		<SimpleData name="length">36.799999999999997</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018872</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018872</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (320384.187138946 6201646.34031518, 320388.52326878 6201646.40187227, 320394.030772307 6201632.94974909)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9519940383747,-34.3108978945983 -58.9519469262563,-34.3108980905936 -58.9518899104474,-34.3110202910779</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381527</SimpleData>
+		<SimpleData name="mslink">1524398222</SimpleData>
+		<SimpleData name="dev_id">e9dbf531-894b-431a-8f46-ce701da52d73</SimpleData>
+		<SimpleData name="link1">1524398224</SimpleData>
+		<SimpleData name="length">1052.599999999999909</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (318306.387467129 6200487.18693699, 318310.758194358 6200486.49624211, 318382.177595821 6200518.70722585, 318420.870638639 6200543.67978628, 318436.420179211 6200552.18493368, 318581.144053167 6200652.90434244, 318695.053478285 6200730.1745113</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9748077506184,-34.3209835772248 -58.974760416385,-34.3209905683608 -58.973977772689,-34.3207127599109 -58.9735521727327,-34.3204944565419 -58.9733814608476,-34.320420521725 -58.9717880660037,-34.3195380588437 -58.970534380434,-34.3188615373242 -58.9702565350855,-34.3187432287091 -58.9677373176185,-34.3172848606574 -58.9648651528618,-34.3157849134267 -58.9648051151713,-34.3158217208994</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381538</SimpleData>
+		<SimpleData name="mslink">1524397732</SimpleData>
+		<SimpleData name="dev_id">30e9ecd0-a15b-4a15-91b6-913e8e55124c</SimpleData>
+		<SimpleData name="link1">1524397738</SimpleData>
+		<SimpleData name="length">2213.199999999999818</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018875</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018875</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (323653.440572804 6207540.78752099, 324033.720839424 6206932.84568675, 324033.82415863 6206914.85303451, 324032.481008946 6206910.61338657, 323734.307832973 6206713.17001613, 324260.804110679 6205870.37079501)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9152766352613,-34.2583295769827 -58.9112724678234,-34.2638737170407 -58.9112750160442,-34.2640359112888 -58.9112904624143,-34.2640738978942 -58.9145678551671,-34.2658030127036 -58.9090236687997,-34.2734887693807</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509382076</SimpleData>
+		<SimpleData name="mslink">1524415234</SimpleData>
+		<SimpleData name="dev_id">151b3f09-7641-43d8-959d-e8a6e37cfb23</SimpleData>
+		<SimpleData name="link1">1524415288</SimpleData>
+		<SimpleData name="length">30.500000000000000</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018885</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018885</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/09 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (317748.0528703 6217265.80551698, 317764.450791429 6217265.13145201)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9773318493905,-34.1696571708188 -58.9771541759458,-34.1696661121557</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381416</SimpleData>
+		<SimpleData name="mslink">1524396752</SimpleData>
+		<SimpleData name="dev_id">9e243e79-aad3-4c9e-bfc3-b5f60db59a44</SimpleData>
+		<SimpleData name="link1">1524396754</SimpleData>
+		<SimpleData name="length">1095.500000000000000</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018881</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018881</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (318318.356714705 6215470.65194288, 318323.925607713 6215535.26800774, 318330.538036927 6215540.11331967, 318409.147348167 6215535.78688451, 318511.911213889 6215530.28051249, 318719.037094039 6215519.8089317, 318737.575511654 6215522.40885518</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9715240298044,-34.1859369548145 -58.9714500757808,-34.1853555221664 -58.9713773422907,-34.1853130026335 -58.9705256679438,-34.1853656980875 -58.9694122633124,-34.1854332294437 -58.9671680006214,-34.1855636623249 -58.9669663913191,-34.1855434529172 -58.9659589061867,-34.1856153252367 -58.9657730225353,-34.1856723824408 -58.9649112659811,-34.1857153689752 -58.9646655885792,-34.185756066768 -58.9637922230899,-34.185814915693 -58.9626378306707,-34.1858946300617 -58.9623730510454,-34.1859127190482 -58.9624569750541,-34.1859683846602 -58.9623687119443,-34.1850236439257 -58.9622856140477,-34.1849690305873 -58.9616748485971,-34.1850095317613</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381450</SimpleData>
+		<SimpleData name="mslink">1524399591</SimpleData>
+		<SimpleData name="dev_id">280ce50d-03e1-4aa7-9113-967c0a6059db</SimpleData>
+		<SimpleData name="link1">1524399593</SimpleData>
+		<SimpleData name="length">27.100000000000001</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018882</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018882</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (318292.281631406 6214682.36822907, 318287.507520277 6214679.09180131, 318276.733639894 6214679.52903702)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9719722548107,-34.1930374339105 -58.9720247262671,-34.1930661326292 -58.9721414965266,-34.1930603125843</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381526</SimpleData>
+		<SimpleData name="mslink">1524396815</SimpleData>
+		<SimpleData name="dev_id">f3e74339-91e5-4cf3-b439-4c772a75d0b6</SimpleData>
+		<SimpleData name="link1">1524399541</SimpleData>
+		<SimpleData name="length">768.500000000000000</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018881</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018881</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (318318.042444906 6215465.66168476, 318294.148388648 6215127.23450902, 318296.996124276 6215104.11679456, 318295.713589406 6215047.74949956, 318299.393439909 6215028.17136324, 318298.013573004 6214990.15577419, 318269.798511882 6214987.4116663</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9715284851904,-34.1859818786773 -58.9718586471647,-34.1890280543022 -58.9718326107739,-34.189236917427 -58.9718583497355,-34.1897447482465 -58.9718225450146,-34.1899218532355 -58.9718454889759,-34.1902642579027 -58.9721520976856,-34.1902840707751 -58.9723459844057,-34.192358701866 -58.9720772181656,-34.1924296953108 -58.97215363042,-34.1928997584853</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381444</SimpleData>
+		<SimpleData name="mslink">1524396878</SimpleData>
+		<SimpleData name="dev_id">21d60832-c1cb-47a0-b88a-10db18056b0e</SimpleData>
+		<SimpleData name="link1">1524396881</SimpleData>
+		<SimpleData name="length">377.100000000000023</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018881</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018881</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (318273.900288995 6214676.97258592, 318270.776793116 6214621.56155219, 318249.33345413 6214621.77142286, 318242.042773156 6214350.06105332, 318246.052365779 6214310.98907744, 318252.866704049 6214311.22787865, 318253.203253902 6214305.90739468</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9721727658989,-34.1930828603922 -58.9722182771462,-34.1935817505664 -58.9724508258939,-34.1935761183951 -58.9725869547284,-34.1960238461965 -58.9725516658825,-34.1963767120488 -58.9724776991653,-34.1963757485469 -58.9724751656374,-34.1964237622259</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381448</SimpleData>
+		<SimpleData name="mslink">1524397430</SimpleData>
+		<SimpleData name="dev_id">55c92b9d-9bfb-4657-abb9-459d0f30e48b</SimpleData>
+		<SimpleData name="link1">1524397431</SimpleData>
+		<SimpleData name="length">301.199999999999989</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018886</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018886</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (319099.572431623 6217819.14182919, 319173.01622001 6217816.48557874, 319179.215372397 6217822.79334763, 319176.632392236 6217778.91202202, 319174.559550656 6217718.49057598, 319170.94337843 6217692.22543997, 319166.091815224 6217613.55201872,</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.962560734129,-34.1649050833949 -58.9617649184934,-34.1649417612439 -58.9616963838619,-34.1648859817285 -58.9617335442592,-34.1652810527624 -58.9617686234679,-34.1658252944886 -58.9618133135932,-34.1660614049846 -58.9618823322846,-34.1667696766238 -58.9619129967032,-34.1667680680439</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381534</SimpleData>
+		<SimpleData name="mslink">1524397629</SimpleData>
+		<SimpleData name="dev_id">6e19fc98-29ca-45c3-98fc-a757c9325297</SimpleData>
+		<SimpleData name="link1">1524397631</SimpleData>
+		<SimpleData name="length">1275.299999999999955</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018884</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018884</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (319806.050207995 6216195.22239973, 319913.7855335 6216189.10763357, 320019.309959269 6216182.11803106, 320045.527207907 6216179.22266173, 320123.274910766 6216173.61288367, 320149.311350793 6216175.06056833, 320227.601479485 6216169.81271143,</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9552378446129,-34.179664417503 -58.9540707055203,-34.1797381505036 -58.9529277232852,-34.1798193759782 -58.9526439928353,-34.1798499995098 -58.9518019658766,-34.1799139819893 -58.9515192938519,-34.1799054260248 -58.9506713072574,-34.1799662322327 -58.9503560503944,-34.1799908251468 -58.9495275266379,-34.1800343854387 -58.9492589933796,-34.1800435479269 -58.9484047384864,-34.1800903066787 -58.9480780376738,-34.1801169402903 -58.9481265937795,-34.1802299198986 -58.9472884103273,-34.1802907802023 -58.9472192307154,-34.1803534156851 -58.9472924230677,-34.1810491082831 -58.9473161131825,-34.1812903505584 -58.9473851049141,-34.1819876102169 -58.9473934305761,-34.1822851431386 -58.9474629490838,-34.1830052376436 -58.9474873208422,-34.18321207279 -58.9475503846156,-34.1839505176645 -58.9475678843793,-34.1841265933409 -58.9476540172185,-34.1848917774406 -58.9476928018667,-34.1848845499432</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381533</SimpleData>
+		<SimpleData name="mslink">1524400263</SimpleData>
+		<SimpleData name="dev_id">89c15b7e-f743-4bed-ab8d-c98a549043cd</SimpleData>
+		<SimpleData name="link1">1524400265</SimpleData>
+		<SimpleData name="length">603.299999999999955</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (323286.273781119 6203564.45934971, 323249.984102409 6203526.34483235, 323229.010303499 6203508.42973465, 323158.144628408 6203430.53751378, 323135.724360607 6203422.39428755, 323092.398097125 6203370.71873112, 323060.440175078 6203330.5002415</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9200773874564,-34.2941075953835 -58.9204793171589,-34.2944449578883 -58.9207107717839,-34.2946028620368 -58.9214963746338,-34.295292864006 -58.9217415361002,-34.2953624418193 -58.9222226828962,-34.2958208299903 -58.9225780171635,-34.2961778872286 -58.9229194137038,-34.2965265960227 -58.9243779900528,-34.2981384440116</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381524</SimpleData>
+		<SimpleData name="mslink">1524397504</SimpleData>
+		<SimpleData name="dev_id">42ab8e38-aa8e-433b-a856-edbad369fb05</SimpleData>
+		<SimpleData name="link1">1524399903</SimpleData>
+		<SimpleData name="length">574.700000000000045</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018886</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018886</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (319093.655714639 6217819.51332924, 318990.617868744 6217826.71307229, 318965.847088996 6217826.89403287, 318885.929682802 6217831.59900802, 318781.422305471 6217839.38031308, 318775.274812687 6217846.6187364, 318781.478808162 6217926.18484266</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9626248130535,-34.1649007086702 -58.9637405744608,-34.1648179374318 -58.9640091319561,-34.1648120070701 -58.9648747115372,-34.1647557247103 -58.966006280672,-34.1646674359891 -58.9660714260915,-34.1646011253786 -58.9659875240434,-34.1638850459153 -58.965969223738,-34.1636879073378 -58.9659050538753,-34.1629081823964 -58.965869749481,-34.1626595190793 -58.9657983392754,-34.1627283275025 -58.96556440427,-34.162744772151</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381443</SimpleData>
+		<SimpleData name="mslink">1524400781</SimpleData>
+		<SimpleData name="dev_id">1ecd0207-953c-4478-9731-26e041d52f21</SimpleData>
+		<SimpleData name="link1">1524400782</SimpleData>
+		<SimpleData name="length">15.199999999999999</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018889</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018889</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (319014.099813973 6202930.85089798, 319009.083916182 6202939.36371476)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9666059025446,-34.299082274314 -58.9666585884168,-34.2990046722214</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381531</SimpleData>
+		<SimpleData name="mslink">1524398933</SimpleData>
+		<SimpleData name="dev_id">2e79134d-a5b1-4938-bce1-3b7c5885cf7f</SimpleData>
+		<SimpleData name="link1">1524398939</SimpleData>
+		<SimpleData name="length">1856.599999999999909</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018889</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018889</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (319017.891106063 6202928.91716796, 319032.06735727 6202926.47893161, 319190.391186574 6202672.74075499, 319181.531564621 6202651.68146716, 319677.581711286 6201864.07562459, 319803.243696138 6201661.59181163, 319810.859797643 6201649.36035346</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9665651338101,-34.299100364512 -58.9664116858152,-34.2991248129049 -58.9647454905877,-34.3014393926741 -58.9648461346796,-34.3016276595621 -58.9596235885625,-34.3088128145057 -58.9583010683445,-34.3106596732599 -58.9582209029202,-34.3107712405968 -58.957586342961,-34.3116090469988 -58.9567134032407,-34.3127978362532 -58.9565753868297,-34.3128494570072 -58.9564567669662,-34.3129928968567 -58.9562778018209,-34.3129987340961</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381498</SimpleData>
+		<SimpleData name="mslink">1524400728</SimpleData>
+		<SimpleData name="dev_id">faf98126-2e84-4312-9498-34cba4c1e916</SimpleData>
+		<SimpleData name="link1">1524400731</SimpleData>
+		<SimpleData name="length">19.399999999999999</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018869</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018869</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (318999.543857235 6202932.67941826, 319002.052276748 6202937.05824593, 319005.72392686 6202939.99803487)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9667636022991,-34.299063254919 -58.9667354395299,-34.2990242253854 -58.9666949460288,-34.298998368995</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381521</SimpleData>
+		<SimpleData name="mslink">1524400419</SimpleData>
+		<SimpleData name="dev_id">399893b1-9242-4837-9831-aae2c3685cc4</SimpleData>
+		<SimpleData name="link1">1524400420</SimpleData>
+		<SimpleData name="length">27.699999999999999</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018874</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018874</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (323312.77695015 6203566.70482752, 323312.577669542 6203570.67976593, 323304.180871245 6203578.3481532)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9197890998834,-34.29409186791 -58.9197904488086,-34.2940560062387 -58.9198800659091,-34.2939854585176</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381435</SimpleData>
+		<SimpleData name="mslink">1524400262</SimpleData>
+		<SimpleData name="dev_id">8092d242-907b-49f1-9dde-719aee84963c</SimpleData>
+		<SimpleData name="link1">1524400316</SimpleData>
+		<SimpleData name="length">25.100000000000001</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (323299.303444359 6203578.13128154, 323291.028634891 6203569.45934971)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9199330796503,-34.2939865829447 -58.9200247236305,-34.2940633378646</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381522</SimpleData>
+		<SimpleData name="mslink">1524397787</SimpleData>
+		<SimpleData name="dev_id">1638b3b4-d5e9-440e-bb69-92b55497aece</SimpleData>
+		<SimpleData name="link1">1524397789</SimpleData>
+		<SimpleData name="length">1251.900000000000091</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018875</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018875</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (324264.226856105 6205864.92459918, 324933.075431571 6204804.25397731)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9089876161943,-34.2735384377236 -58.9019409468769,-34.2832117638145</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381520</SimpleData>
+		<SimpleData name="mslink">1524399693</SimpleData>
+		<SimpleData name="dev_id">e971b5bd-9dc1-45ad-99d7-3e25c325f077</SimpleData>
+		<SimpleData name="link1">1524399747</SimpleData>
+		<SimpleData name="length">20.899999999999999</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018885</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018885</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (319171.832757742 6216326.35682546, 319158.2834456 6216326.93475008)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9620886616505,-34.1783726295338 -58.9622354829805,-34.1783650700683</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381529</SimpleData>
+		<SimpleData name="mslink">1524400057</SimpleData>
+		<SimpleData name="dev_id">95d29514-371b-4bec-b2c9-06c457fef328</SimpleData>
+		<SimpleData name="link1">1524400058</SimpleData>
+		<SimpleData name="length">14.199999999999999</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018888</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018888</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (318841.481151448 6218062.6220487, 318838.916283894 6218064.69541371)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9653084051969,-34.1626657119117 -58.9653357827138,-34.1626465784577</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381497</SimpleData>
+		<SimpleData name="mslink">1524399900</SimpleData>
+		<SimpleData name="dev_id">f5d75ede-30a5-4807-9061-20555e0972ec</SimpleData>
+		<SimpleData name="link1">1524399954</SimpleData>
+		<SimpleData name="length">21.199999999999999</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018886</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018886</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (318823.049159458 6218053.07312202, 318839.103639028 6218052.02659806)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9655102575988,-34.1627485783703 -58.9653363982327,-34.1627607995837</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381528</SimpleData>
+		<SimpleData name="mslink">1524399321</SimpleData>
+		<SimpleData name="dev_id">449126c2-4246-40e3-99ea-3286ac872fe0</SimpleData>
+		<SimpleData name="link1">1524399323</SimpleData>
+		<SimpleData name="length">576.899999999999977</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018878</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018878</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (322249.62157349 6212910.65656258, 322238.461903421 6212902.143482, 321978.192475236 6213317.10457862, 321933.130276161 6213370.32538399)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9294110113772,-34.2096894233327 -58.9295338342305,-34.20976425066 -58.9322721582092,-34.2059795441893 -58.9327500712922,-34.2054921356125</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381431</SimpleData>
+		<SimpleData name="mslink">1524400056</SimpleData>
+		<SimpleData name="dev_id">ff4ab9ce-0536-4fdf-8184-52e050efbfa4</SimpleData>
+		<SimpleData name="link1">1524400058</SimpleData>
+		<SimpleData name="length">10.800000000000001</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018888</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018888</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (318841.575175826 6218054.36363358, 318841.481151448 6218062.6220487)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9653091111707,-34.1627401643048 -58.9653084051969,-34.1626657119117</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509386619</SimpleData>
+		<SimpleData name="mslink">1524479326</SimpleData>
+		<SimpleData name="dev_id">afb5ffa1-b8f2-4479-887c-4785ab3f9f20</SimpleData>
+		<SimpleData name="link1">1524479328</SimpleData>
+		<SimpleData name="length">474.000000000000000</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/30 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Matias.Rodriguez</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (323599.307764516 6203933.88325149, 323508.003641002 6203836.23417541, 323461.490625745 6203785.80272299, 323408.886620396 6203724.28743486, 323309.255425301 6203613.40949276, 323316.216556836 6203595.99203666, 323304.058298131 6203583.1312815</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9166021615712,-34.2908310676446 -58.9176136997743,-34.2916957007996 -58.9181291557702,-34.2921423513087 -58.9187130367965,-34.2926878664496 -58.9198177645143,-34.2936703001559 -58.9197457386139,-34.2938284757998 -58.9198804159757,-34.2939423253578</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381517</SimpleData>
+		<SimpleData name="mslink">1524400212</SimpleData>
+		<SimpleData name="dev_id">12866200-d924-4fce-8ea7-f8e426ed5f19</SimpleData>
+		<SimpleData name="link1">1524400213</SimpleData>
+		<SimpleData name="length">26.000000000000000</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018876</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018876</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (323672.235521432 6207925.26880055, 323673.999316755 6207924.6664156, 323684.014983088 6207930.13156525)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9149940526402,-34.2548672476869 -58.9149750295543,-34.2548729764777 -58.9148651922194,-34.2548254153217</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381434</SimpleData>
+		<SimpleData name="mslink">1524399538</SimpleData>
+		<SimpleData name="dev_id">8cc511d9-c13e-4ac8-a277-492c7ddecc8d</SimpleData>
+		<SimpleData name="link1">1524399540</SimpleData>
+		<SimpleData name="length">20.100000000000001</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018881</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018881</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (318274.945152099 6214692.31379408, 318274.293129971 6214682.29976875)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.972158212335,-34.1929447680715 -58.9721673866414,-34.1930349135353</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381496</SimpleData>
+		<SimpleData name="mslink">1524399147</SimpleData>
+		<SimpleData name="dev_id">eca06b7b-dc06-48ec-97e3-e36180750929</SimpleData>
+		<SimpleData name="link1">1524399150</SimpleData>
+		<SimpleData name="length">1374.400000000000091</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018868</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018868</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (318301.387467129 6200486.63320553, 318289.040983765 6200481.94746779, 317200.404561058 6199674.09444513)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9748621835826,-34.3209876919111 -58.9749972956328,-34.3210277612659 -58.9869950047391,-34.3281175982314</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381494</SimpleData>
+		<SimpleData name="mslink">1524400469</SimpleData>
+		<SimpleData name="dev_id">74d4a7ea-aff2-4644-b470-52b67adaa884</SimpleData>
+		<SimpleData name="link1">1524400523</SimpleData>
+		<SimpleData name="length">81.000000000000000</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (320375.856165317 6201621.14964295, 320392.656148727 6201629.25224098)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9520897868107,-34.3111235008771 -58.9519056132543,-34.3110533794925</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381516</SimpleData>
+		<SimpleData name="mslink">1524399487</SimpleData>
+		<SimpleData name="dev_id">5c9e3baf-4a3e-4984-ba3a-8191a7684b1e</SimpleData>
+		<SimpleData name="link1">1524399489</SimpleData>
+		<SimpleData name="length">8.400000000000000</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018879</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018879</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (322650.283758756 6213861.0361815, 322653.345744062 6213855.9849198)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9248693353814,-34.2011914863485 -58.9248371536996,-34.2012375373712</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381515</SimpleData>
+		<SimpleData name="mslink">1524398604</SimpleData>
+		<SimpleData name="dev_id">2d4cb638-edaa-458b-a482-13fc9bfe3665</SimpleData>
+		<SimpleData name="link1">1524400472</SimpleData>
+		<SimpleData name="length">431.899999999999977</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (319999.84860026 6201407.09277538, 320225.472754458 6201546.84466341, 320309.322747948 6201589.27992008, 320370.856165317 6201618.75462672)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9562187716176,-34.3129876558668 -58.9537387823979,-34.3117671744772 -58.9528191313424,-34.3113992258294 -58.9521445970424,-34.3111442218211</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381514</SimpleData>
+		<SimpleData name="mslink">1524396994</SimpleData>
+		<SimpleData name="dev_id">80d5b2b6-5670-4780-8d62-07bf71a2b24a</SimpleData>
+		<SimpleData name="link1">1524396996</SimpleData>
+		<SimpleData name="length">1489.599999999999909</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018881</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018881</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (318253.697493991 6214300.39575587, 318259.143417326 6214233.24986159, 318267.591376816 6214132.50744325, 318275.91595288 6214126.00763456, 318354.147042025 6214132.87305749, 318379.770205227 6214134.05484089, 318457.945944798 6214140.33675826</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9724709617417,-34.1964735263461 -58.9724259864766,-34.1970796805649 -58.9723555004934,-34.197989172991 -58.9722665649664,-34.1980492097936 -58.9714165177313,-34.1980009745411 -58.9711383243062,-34.1979947905838 -58.9702890006526,-34.1979517971188 -58.97001820746,-34.1979332376312 -58.9691665158305,-34.1978882431505 -58.9688913142802,-34.1978729486674 -58.9680410630559,-34.1978326017452 -58.9669210197546,-34.1977745967845 -58.9657856788971,-34.1977193762331 -58.9655068701562,-34.1977107917818 -58.9646347999067,-34.1976709206936 -58.9635273384156,-34.1976108703278 -58.9623732566459,-34.1975394516619 -58.9620264920341,-34.1975254200051 -58.9611634880002,-34.1974744819171 -58.9610900979578,-34.1974038624074 -58.9611151025758,-34.1971280613578 -58.9612976381914,-34.1967074368435 -58.9613627142944,-34.1965159578458 -58.9616887936179,-34.1957431620579 -58.9612427924671,-34.1957160303842 -58.9610051768952,-34.1957067767861 -58.9610549300208,-34.1956021023212</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381423</SimpleData>
+		<SimpleData name="mslink">1524400366</SimpleData>
+		<SimpleData name="dev_id">ac60bda1-69ac-4a0c-8292-249e1937dacf</SimpleData>
+		<SimpleData name="link1">1524400369</SimpleData>
+		<SimpleData name="length">31.600000000000001</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018873</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018873</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (323290.337708288 6203565.11389129, 323299.302088616 6203554.57822605, 323302.522477917 6203555.31945733)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9200331185461,-34.2941023876257 -58.9199379256003,-34.294198876032 -58.9199027997795,-34.2941927432526</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381426</SimpleData>
+		<SimpleData name="mslink">1524399850</SimpleData>
+		<SimpleData name="dev_id">a3b28a6c-76c8-41d7-a666-0a625a8de71a</SimpleData>
+		<SimpleData name="link1">1524399851</SimpleData>
+		<SimpleData name="length">21.300000000000001</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018886</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018886</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (319172.76890311 6216314.24319526, 319174.078550284 6216314.85927214, 319174.27700175 6216323.75748474)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9620810374766,-34.1784819763555 -58.9620667057814,-34.1784766506143 -58.9620626963984,-34.1783964823007</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381513</SimpleData>
+		<SimpleData name="mslink">1524400004</SimpleData>
+		<SimpleData name="dev_id">78f1176c-268c-4ede-b817-175a4552512b</SimpleData>
+		<SimpleData name="link1">1524400007</SimpleData>
+		<SimpleData name="length">10.800000000000001</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018887</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018887</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (318820.715618473 6218055.7360865, 318821.268304749 6218064.03672253)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9655350036281,-34.1627241707826 -58.9655272763874,-34.162649450179</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381512</SimpleData>
+		<SimpleData name="mslink">1524399200</SimpleData>
+		<SimpleData name="dev_id">0e225fe2-a385-49dd-99dc-a496c05d62cf</SimpleData>
+		<SimpleData name="link1">1524399386</SimpleData>
+		<SimpleData name="length">1488.500000000000000</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018878</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018878</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (321836.907038924 6213528.0325207, 321835.670385235 6213527.22376357, 321727.760635974 6213696.47484597, 321741.330099492 6213692.91795176, 321924.543097802 6213806.6526755, 321928.500857994 6213801.45374916, 322495.631660613 6214153.59590689,</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9337614885883,-34.204054189813 -58.9337750708862,-34.204061267959 -58.9349108545295,-34.2025172633157 -58.9347643823939,-34.2025516458424 -58.9327534363801,-34.2015578426045 -58.9327115718554,-34.2016053796759 -58.9264870179472,-34.1985281506359 -58.9265153588902,-34.1983580540696 -58.924681364034,-34.2008769314622 -58.9246892657777,-34.2009546174709 -58.9247328087585,-34.2009807211234 -58.9246671959344,-34.2010633876532 -58.9248595820838,-34.2011604231058</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381509</SimpleData>
+		<SimpleData name="mslink">1524399798</SimpleData>
+		<SimpleData name="dev_id">e1e43f42-bf93-4b47-9d7a-f58a285a2c43</SimpleData>
+		<SimpleData name="link1">1524399800</SimpleData>
+		<SimpleData name="length">22.699999999999999</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018887</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018887</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (319156.100774054 6216314.84103091, 319155.377267974 6216315.17685198, 319155.697806432 6216324.5340908)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9622616783737,-34.1784736963758 -58.9622694546906,-34.1784705439871 -58.9622640252713,-34.1783862595012</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381504</SimpleData>
+		<SimpleData name="mslink">1524399034</SimpleData>
+		<SimpleData name="dev_id">660d0b3f-0dfe-4310-8e84-b835975af9b1</SimpleData>
+		<SimpleData name="link1">1524399036</SimpleData>
+		<SimpleData name="length">692.899999999999977</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018867</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (318301.387467129 6200488.80112139, 318298.870034295 6200490.02873824, 318190.41231168 6200645.47872604, 318170.342555826 6200651.26946469, 318018.489152136 6200867.00033092, 317999.323439339 6200884.37254687, 317998.05777906 6200875.32451773,</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9748617257202,-34.3209681523239 -58.9748888138239,-34.3209566465901 -58.9760341613694,-34.3195365541802 -58.9762509554966,-34.3194808428835 -58.9778549104924,-34.3175098092422 -58.9780594280986,-34.317349869007 -58.9780750903924,-34.3174311973367 -58.9778829416901,-34.3172809285709 -58.9767707333962,-34.3166054487591 -58.9765239260008,-34.3165539579138 -58.9765215858264,-34.3165524642783</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381422</SimpleData>
+		<SimpleData name="mslink">1524397224</SimpleData>
+		<SimpleData name="dev_id">29da739c-f9f1-4288-bf1b-79af9b91bb63</SimpleData>
+		<SimpleData name="link1">1524399748</SimpleData>
+		<SimpleData name="length">267.100000000000023</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018885</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018885</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (319193.891317405 6216084.17535881, 319179.327052308 6216086.9191718, 319187.463439816 6216212.58337081, 319192.315752548 6216319.265174, 319186.234679254 6216325.82407186, 319176.832757742 6216326.15814403)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9618999807502,-34.1805593228092 -58.9620573612285,-34.1805320654623 -58.9619428921384,-34.1794008212007 -58.9618680040122,-34.1784401019981 -58.9619325843281,-34.1783799295689 -58.9620344782344,-34.1783752876357</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381502</SimpleData>
+		<SimpleData name="mslink">1524397681</SimpleData>
+		<SimpleData name="dev_id">2441b7d9-f9b9-42f4-81ed-e978c50f1224</SimpleData>
+		<SimpleData name="link1">1524400109</SimpleData>
+		<SimpleData name="length">18.699999999999999</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018875</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018875</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (323677.820895314 6207945.47641489, 323684.942741545 6207933.99571554)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9149292948085,-34.2546860539485 -58.9148543319675,-34.2547907431964</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381418</SimpleData>
+		<SimpleData name="mslink">1524399435</SimpleData>
+		<SimpleData name="dev_id">851c3d30-b967-4c05-9031-0e74aacd0e2b</SimpleData>
+		<SimpleData name="link1">1524399438</SimpleData>
+		<SimpleData name="length">27.199999999999999</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018880</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018880</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (322636.607279474 6213852.61054991, 322639.111924565 6213847.48356084, 322643.792641355 6213846.75970467)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9250194265282,-34.2012651020773 -58.9249933065354,-34.2013117407994 -58.9249426777561,-34.2013190623451</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381501</SimpleData>
+		<SimpleData name="mslink">1524399383</SimpleData>
+		<SimpleData name="dev_id">f9340dba-df1e-4a5d-af0d-daaf841d94b7</SimpleData>
+		<SimpleData name="link1">1524399385</SimpleData>
+		<SimpleData name="length">30.199999999999999</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018878</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018878</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (322646.848642294 6213861.86565609, 322638.063953698 6213856.41759031)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9249064300057,-34.2011834249417 -58.925002844068,-34.2012310353022</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_TLI_CLARO_campana">
+		<SimpleData name="xfm_id">1509381420</SimpleData>
+		<SimpleData name="mslink">1524397286</SimpleData>
+		<SimpleData name="dev_id">699beadb-baa6-4e99-9b54-b23cb671c0b3</SimpleData>
+		<SimpleData name="link1">1524415237</SimpleData>
+		<SimpleData name="length">774.000000000000000</SimpleData>
+		<SimpleData name="model">CLARO 48 fo</SimpleData>
+		<SimpleData name="multisheat">0</SimpleData>
+		<SimpleData name="descr">TL00-CAMX-0-018885</SimpleData>
+		<SimpleData name="descr2">TL00-CAMX-0-018885</SimpleData>
+		<SimpleData name="owner">AMX</SimpleData>
+		<SimpleData name="poleno">CM</SimpleData>
+		<SimpleData name="contractor">TL00</SimpleData>
+		<SimpleData name="job_name">TLI</SimpleData>
+		<SimpleData name="job_desc">48FO</SimpleData>
+		<SimpleData name="createdate">2020/12/01 00:00:00.000</SimpleData>
+		<SimpleData name="createdby">Brian.Licantica</SimpleData>
+		<SimpleData name="updatedate">2021/04/09 00:00:00.000</SimpleData>
+		<SimpleData name="updatedby">Gustavo.Pineyro</SimpleData>
+		<SimpleData name="updatedver">AAAA_GUSTAVOP_REVISON</SimpleData>
+		<SimpleData name="ogc_geomet">LINESTRING (318191.825004871 6216951.61451809, 318193.126221886 6217012.01305491, 318196.329117286 6217032.69426437, 318200.436055743 6217114.79866595, 318194.443541768 6217120.89962274, 318115.581467469 6217125.74493467, 318106.312258661 6217115.6406866</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-58.9725855891782,-34.1725665363913 -58.972558808038,-34.1720223727952 -58.9725197371414,-34.1718365251733 -58.9724579785697,-34.1710972090174 -58.9725216814736,-34.1710411744063 -58.9733758423607,-34.1709837491728 -58.9734784778323,-34.1710732049491 -58.9733796534098,-34.1701365214744 -58.9735394260131,-34.1700066816137 -58.9755018262118,-34.1698987101352 -58.9758263440779,-34.1698526925625 -58.9775874085883,-34.1697574194564 -58.9775690595672,-34.1696434988747 -58.9773860157541,-34.1696540489045</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,177 @@
+[12-Jul-2021 15:40:07 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 15:40:07 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 15:40:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 15:40:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 15:40:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 15:48:32 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 15:48:32 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 15:48:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 15:48:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 15:48:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 15:49:38 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 15:49:38 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 15:49:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 15:49:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 15:49:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 15:50:44 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 15:50:44 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 15:50:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 15:50:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 15:50:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 15:51:03 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 15:51:03 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 15:51:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 15:51:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 15:51:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 15:55:06 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 15:55:06 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 15:55:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 15:55:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 15:55:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 15:57:28 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 15:57:28 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 15:57:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 15:57:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 15:57:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 16:05:57 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 16:05:57 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 16:05:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 16:05:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 16:05:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 16:06:07 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 16:06:07 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 16:06:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 16:06:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 16:06:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 16:07:15 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 16:07:15 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 16:07:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 16:07:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 16:07:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 16:07:57 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 16:07:57 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 16:07:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 16:07:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 16:07:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 16:11:56 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 16:11:56 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 16:11:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 16:11:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 16:11:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 16:49:02 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 16:49:02 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 16:49:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 16:49:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 16:49:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 16:51:12 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 16:51:12 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 16:51:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 16:51:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 16:51:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 16:51:47 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 16:51:47 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 16:51:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 16:51:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 16:51:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 16:52:08 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 16:52:08 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 16:52:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 16:52:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 16:52:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 16:53:49 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 16:53:49 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 16:53:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 16:53:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 16:53:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 17:02:15 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:02:15 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:02:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 17:02:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 17:02:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 17:02:42 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:02:42 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:02:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 17:02:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 17:02:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 17:06:26 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:06:26 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:06:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 17:06:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 17:06:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 17:11:00 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:11:00 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:11:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 17:11:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 17:11:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 17:11:01 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:11:01 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:11:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 17:11:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 17:11:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 17:11:13 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:11:13 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:11:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 17:11:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 17:11:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 17:12:34 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:12:34 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:12:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 17:12:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 17:12:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 17:13:09 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:13:09 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:13:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 17:13:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 17:13:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 17:15:44 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:15:44 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:15:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 17:15:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 17:15:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 17:21:23 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:21:23 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:21:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 17:21:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 17:21:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 17:21:55 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:21:55 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:21:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 17:21:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 17:21:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 17:37:07 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:37:07 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 17:37:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 17:37:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 17:37:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 18:49:18 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 18:49:18 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 18:49:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 18:49:18 UTC] PHP Notice:  Undefined index: nombre in /home/despacho/public_html/corpo/include/header.php on line 5
+[12-Jul-2021 19:03:26 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 19:03:26 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[12-Jul-2021 19:03:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[12-Jul-2021 19:03:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[12-Jul-2021 19:03:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[12-Jul-2021 19:03:26 UTC] PHP Notice:  Undefined index: card in /home/despacho/public_html/corpo/Basico/alta.php on line 27
+[30-Aug-2021 15:40:14 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[30-Aug-2021 15:40:14 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[30-Aug-2021 15:40:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[30-Aug-2021 15:40:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[30-Aug-2021 15:40:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[30-Aug-2021 15:40:14 UTC] PHP Notice:  Undefined index: card in /home/despacho/public_html/corpo/Basico/alta.php on line 27
+[01-Sep-2021 18:29:34 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[01-Sep-2021 18:29:34 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[01-Sep-2021 18:29:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[01-Sep-2021 18:29:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[01-Sep-2021 18:29:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[01-Sep-2021 18:29:34 UTC] PHP Notice:  Undefined index: card in /home/despacho/public_html/corpo/Basico/alta.php on line 27
+[25-Oct-2021 17:47:33 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[25-Oct-2021 17:47:34 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[25-Oct-2021 17:47:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[25-Oct-2021 17:47:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[25-Oct-2021 17:47:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
+[25-Oct-2021 17:49:31 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/despacho/public_html/corpo/include/header.php on line 1
+[25-Oct-2021 17:49:31 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/despacho/public_html/corpo/include/header.php on line 1
+[25-Oct-2021 17:49:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/include/header.php on line 4
+[25-Oct-2021 17:49:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 5
+[25-Oct-2021 17:49:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/despacho/public_html/corpo/Basico/alta.php on line 26
